@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/gregoryoxsen/ipatest/raw/main/Emcee%20Webview%20Test.ipa</string>
+					<string>https://github.com/gregoryoxsen/ipatest/raw/main/emceetest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://assets-global.website-files.com/61e838e6d23beecced76a470/647711f28ed867b16b441a15_Frame%202.png</string>
+					<string>https://assets.website-files.com/647802571547cbfe0690bc09/6478030a99eca638accb71af_Frame%201.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://assets-global.website-files.com/61e838e6d23beecced76a470/647711f28ed867b16b441a15_Frame%202.png</string>
+					<string>https://assets.website-files.com/647802571547cbfe0690bc09/6478030a99eca638accb71af_Frame%201.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>emcee.Emcee-Webview-Test</string>
+				<string>emcee.emceetest</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Emcee Webview Test</string>
+				<string>emceetest</string>
 			</dict>
 		</dict>
 	</array>
